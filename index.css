@@ -7,6 +7,12 @@ body {
     color: white;
 }
 
+.container{
+    background-color:rgba(0, 0, 0, 0.5);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
